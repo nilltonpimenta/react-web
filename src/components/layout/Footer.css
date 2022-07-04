@@ -1,0 +1,26 @@
+footer {
+    background-color: white;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    color: black;
+    display: flex;
+    font-size: 16px;
+    padding: 2px;
+}
+
+.textomin {
+    color: black;
+    display: flex;
+    font-size: 10px;
+}
+
+.caixa {
+    border: 2px solid #1CA3C3;
+    width: 20px;
+    height: 20px;
+    display: flex;
+}
